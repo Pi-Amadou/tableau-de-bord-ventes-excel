@@ -13,7 +13,7 @@ Analyser les performances de ventes par région, segment, catégorie et sous-cat
 - Nettoyage de données intégré
 
 ## 📁 Fichier inclus
-- `Tableau de bord US Superstore.xlsx` : fichier Excel unique contenant :
+- `Données US Superstore..xlsx` : fichier Excel unique contenant :
   - **Données brutes** (feuille : *Données*)
   - **Données nettoyées** (feuille : *Données nettoyées*)
   - **Indicateurs et TCD**
